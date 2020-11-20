@@ -1,0 +1,196 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'IBM Plex Mono';
+}
+
+.margen-section {
+    padding: 100px 0;
+}
+
+.navbar {
+    background-color: #ff4f5a !important;
+}
+
+.navbar .navbar-brand {
+    font-family: "IBM Plex Mono";
+    font-weight: 600;
+    color: #fff;
+}
+
+.navbar .navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar .navbar-nav li a {
+    color: #fff !important;
+    font-family: "IBM Plex Mono";
+}
+
+.navbar .navbar-nav li a:hover {
+    color: #ececec !important;
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item {
+    color: #000 !important;
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item:hover {
+    color: #ececec !important;
+    background-color: #ff4f5a;
+    opacity: 0.5;
+}
+
+.navbar-toggler {
+    color: #ececec;
+}
+
+.jumbotron {
+    background-color: #ff4f5a;
+    color: #ececec;
+}
+
+.display-4 {
+    font-weight: 700;
+    margin-top: 5%;
+}
+
+.arquitectura {
+    background-color: #fff;
+}
+
+.card {
+    margin-top: 50px;
+    margin: 10px;
+    padding: 30px;
+}
+
+.proveedores_txt {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.proveedor {
+    width: 200px;
+    padding-bottom: 20px;
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.proveedor:hover {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    align-items: center;
+    }
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+    align-items: center;
+    color:#fff;
+    }
+
+/*Proveedores*/
+.provcont{
+    margin-bottom: 15%;
+    margin-top: 5%;
+}
+.ventajas__txt{
+    font-weight: 500;
+    text-align: center;
+    padding-top: 5%;
+    color: #ff4f5a;
+    padding-bottom: -20%;
+    margin-bottom: -5%;
+    
+}
+.carousel slide{
+    z-index: -1;
+}
+
+.jumbotron__proveedores{
+    background-color: #ffffff;
+    color: #ff4f5a;
+    padding-top: 5%;
+    text-align: left;
+}
+.provtxt{
+padding-top: 10%;
+
+}
+
+.titulos__txt{
+    font-weight: 500;
+    text-align: center;
+    padding-top: 5%;
+    margin-bottom: -6%;
+    
+}
+.carousel slide {
+    z-index: -1;
+}
+
+.jumbotron__proveedores{
+    background-color: #ffffff;
+    color: #ff4f5a;
+    padding-top: 5%;
+    text-align: left;
+}
+
+.margen-section {
+    background-color: #d8d8d8;
+}
+
+.margen-section .btn {
+    background-color: #ff4f5a !important;
+}
+
+/*Footer*/
+.page-footer {
+    color: #d8d8d8;
+}
+
+.footer-copyright {
+    background-color: #ff4f5a;
+    color: #fff;
+}
+
+.banc{
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 0%;
+    text-align: center;
+    }
+    .btn-danger {
+        color: #fff;
+        background-color: #ff4f5a;
+       
+    }
+
+.accordion{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+/*lexico*/
+
+.card-body{
+    text-align: left;
+}
